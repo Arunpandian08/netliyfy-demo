@@ -1,7 +1,8 @@
 body{
+    font-weight: 200;
+    font-style: initial;
     background: linear-gradient(to left,#43c0c0, #8f4a8f);
-    height: 180px;
-    width: 1500px;
-    border-radius: 5px;
-    border: 2px solid rgb(244, 235, 235);
+    height: 200px;
+    width: 1350px;
+    border-color:rgb(247, 239, 239);
 }
