@@ -1,5 +1,7 @@
 body{
-    background-color: color(rec2020 rgb(8, 21, 8) rgb(24, 24, 57));
-    background-color: blueviolet;
-    background-size: cover;
+    background: linear-gradient(to left,#43c0c0, #8f4a8f);
+    height: 180px;
+    width: 1500px;
+    border-radius: 5px;
+    border: 2px solid rgb(244, 235, 235);
 }
